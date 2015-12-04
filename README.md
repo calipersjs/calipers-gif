@@ -1,6 +1,6 @@
 #calipers-gif
 
-[![npm version](https://badge.fury.io/js/calipers-gif.svg)](http://badge.fury.io/js/calipers-gif) [![Build Status](https://travis-ci.org/calipersjs/calipers-gif.svg)](https://travis-ci.org/calipersjs/calipers-gif) [![Coverage Status](https://coveralls.io/repos/calipersjs/calipers-gif/badge.svg)](https://coveralls.io/r/calipersjs/calipers-gif)
+[![npm version](https://badge.fury.io/js/calipers-gif.svg)](http://badge.fury.io/js/calipers-gif) [![Build Status](https://travis-ci.org/calipersjs/calipers-gif.svg?branch=master)](https://travis-ci.org/calipersjs/calipers-gif) [![Coverage Status](https://coveralls.io/repos/calipersjs/calipers-gif/badge.svg)](https://coveralls.io/r/calipersjs/calipers-gif)
 
 GIF Plugin for [Calipers](https://github.com/calipersjs/calipers).
 

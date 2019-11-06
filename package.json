@@ -29,7 +29,7 @@
   "devDependencies": {
     "chai": "2.x.x",
     "coveralls": "2.x.x",
-    "eslint": "1.x.x",
+    "eslint": "6.x.x",
     "eslint-config-lob": "1.x.x",
     "istanbul": "0.x.x",
     "mocha": "2.x.x",
